@@ -5,6 +5,7 @@ when it comes to software, computers and programming.
 
 #### April
 
+- Installed EndeavourOS (Arch based Linux distribution) on my laptop. - May-02
 - Complete the [Iris Flower **Machine Learning** Project](https://github.com/Adrian-rospx/iris-flower),  
 moved my projects to the profile repository - May-01
 - Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site) 
